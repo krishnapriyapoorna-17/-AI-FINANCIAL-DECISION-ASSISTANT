@@ -1,0 +1,19 @@
+Date,Type,Category,Description,Amount
+2026-06-01,Income,Sales,Client Consulting Services,4500.00
+2026-06-02,Expense,Rent,Office Space Rent June,1200.00
+2026-06-05,Expense,Utilities,Electricity and Internet June,250.00
+2026-06-10,Expense,Inventory,Raw Materials Purchase,1800.00
+2026-06-15,Expense,Salaries,Employee Payroll Mid-Month,3500.00
+2026-06-18,Income,Sales,Product Sales Batch A,6200.00
+2026-06-20,Expense,Marketing,Social Media Ad Campaign,500.00
+2026-06-25,Expense,Transportation,Logistics & Shipping,320.00
+2026-06-28,Expense,Other,Office Supplies & Snacks,150.00
+2026-07-01,Income,Sales,Enterprise Retainer Fee,5000.00
+2026-07-02,Expense,Rent,Office Space Rent July,1200.00
+2026-07-06,Expense,Utilities,Water & Electricity July,280.00
+2026-07-12,Expense,Inventory,Packaging Materials,950.00
+2026-07-15,Expense,Salaries,Employee Payroll Mid-Month,3500.00
+2026-07-19,Income,Sales,Product Sales Batch B,7100.00
+2026-07-22,Expense,Marketing,Search Engine Marketing,650.00
+2026-07-26,Expense,Transportation,Courier & Delivery Services,210.00
+2026-07-29,Expense,Other,Software Subscriptions,180.00
